@@ -25,6 +25,6 @@
 
 - `docker-compose.yml` — настройки контейнера
 - `code/index.html` — веб-страница
-- `screenshots/` — скриншоты этапов
+- `screenshots` — скриншоты этапов
 
 ✅ Результат Сервер в Docker успешно запущен, Nginx отдаёт мою HTML-страницу.
